@@ -1,0 +1,2 @@
+# bin
+Useful scripts
